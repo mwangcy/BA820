@@ -2,6 +2,9 @@
 
 Group Project BA820
 
+![image](https://github.com/mwangcy/BA820/assets/143052952/cafafbd8-c5a2-4383-8d73-dd7d7bd40317)
+
+
 **Contributors** : Mauro Wang, Lyushen Song, Pengru Lin, Leonardo Trucious, Ashley Mercado
 
 **Problem Statement and Motivation:**
